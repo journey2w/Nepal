@@ -21,19 +21,14 @@
 ## 1st DAY
 
 - Introduction (0.5 시간)
-
   - 본인 제품 intro (Template 제공)
 
 - 나의 프로필 만들기 (1.5시간)
-
   - 자신의 로고 만드는 법 (모눈 종이, 색연필)
-
   - 영어 홍보  문구 만들기 (단어 카드 제작)
-   
 
 - 홍보에 좋은 앱 추천 (1장, 0.5시간)
-
-   - 사진 보정, 로드 무비 만드는 법
+  - 사진 보정, 로드 무비 만드는 법
 
 - Reference site (inspiration) 추천 (0.5시간)
 
@@ -41,13 +36,12 @@
 ### 2nd DAY
 
 - Social Media 활용 사례 (3 시간)
-- 공통 (0.5분)
-  - 전략 - 1장 (강영애)
-  - facebook과 instragram 연동하는 방법 (권문광)
-  - 제안: Fle Market 시작해서 커뮤니티 활성화 - 1개 
-          청년 시장 (최지수)
-        - 5일 장을 만들고, 홍보를 SNS 통해...
-        - 카드 뉴스 (Best 5) - 전주시, 충주시 사례 (Community 중심) (박정재)
+  - 공통 (0.5분)
+    - 전략 - 1장 (강영애)
+    - facebook과 instragram 연동하는 방법 (권문광)
+    - 제안: Flea Market 시작해서 커뮤니티 활성화 - 1개 
+            ex. 청년 시장, 5일 장을 만들고, 홍보를 SNS 통해...(최지수)
+    - 카드 뉴스 (Best 5) - 전주시, 충주시 사례 (Community 중심) (박정재)
   
   - Agriculture 2개 (이나리)
   - Industry 2개 (이존기, 김수정)
@@ -62,7 +56,6 @@
 # Social Media BEST PRACTICE  |Social Media Stats
 
 - Image Source: http://gs.statcounter.com/social-media-stats/all/nepal
-
 
 
 # Social Media BEST PRACTICE | Strategy
@@ -87,7 +80,6 @@
 
 
 
-
 # Social Media BEST PRACTICE   | Agriculture
 
 ## USA
@@ -105,7 +97,6 @@
 # Social Media BEST PRACTICE  | Industry
 
 - 내용 정리
-
 
 
 
