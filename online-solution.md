@@ -10,13 +10,6 @@
 - 교안 제출(7/12)
 
 
-# 저작 방법
-
-- PPT
-  - Text
-  - Images
-
-
 # Agenda
 ## 1st DAY
 
@@ -38,12 +31,13 @@
 - Social Media 활용 사례 (3 시간)
   - 공통 (0.5분)
     - 전략 - 1장 (강영애)
-    - facebook과 instragram 연동하는 방법 (권문광)
-    - 제안: Flea Market 시작해서 커뮤니티 활성화 - 1개 
+    - facebook과 instragram 연동하는 방법 (권문광):  Done
+    - 제안: Flea Market 시작해서 커뮤니티 활성화 - 1개 : Done
             ex. 청년 시장, 5일 장을 만들고, 홍보를 SNS 통해...(최지수)
-    - 카드 뉴스 (Best 5) - 전주시, 충주시 사례 (Community 중심) (박정재)
+    - 카드 뉴스 (Best 5) - 전주시, 충주시 사례 (Community 중심) (박정재) : Done
   
   - Agriculture 2개 (이나리)
+
   - Industry 2개 (이존기, 김수정)
     - facebook 미용실 사례 추가
 
@@ -53,34 +47,65 @@
 - 홍보를 할 제품을 가지고 와서 직접 사진, 로드 무비 만들어 보기(체험 및 공유)  
   
 
-# Social Media BEST PRACTICE  |Social Media Stats
+# Social Media Strategy 
 
-- Image Source: http://gs.statcounter.com/social-media-stats/all/nepal
+## Stats
+
+![Social Media Stas Neap](StatCounter-social_media-NP-monthly-201805-201905.png)
+
+Source: http://gs.statcounter.com/social-media-stats/all/nepal
+
+## How To Use Social Media for Marketing
+
+1. 롤 모델을 찾고 그 운영 방식을 따라 해라.  
+   롤 모델로 선정한 Social Media 페이지에 올라오는 글과 사진을 모방해서 올리는 것으로 Social Media 운영에 익숙해질 수 있다.
+
+2. 처음에 페이스북으로 시작해라.  
+   페이북에서 제품 홍보를 위한 비즈니스 페이지를 만들어라.
+
+3. 그 다음에 다른 Social Media 활동을 넓혀라.  
+   Instagram 또는  Twitter 로 확장한다.
+
+4. 하루에 최소 하나씩은 올려라.  
+   하루에 하나씩의 사진이라 글을 올려라
+
+5. 있는 그대로의 현실을 담아라.  
+   당신의 글과 사진에 생생함을 담아 올린다.
+
+6. 사람들을 대화에 끌어들여라.  
+   당신을 위한 의견을 질문으로 만들어서 올려라
+
+7. 팔로어를 고색으로 바꿔라.  
+   당신의 글에 가장 먼저 댓글을 단 다섯 명에게는 농산물을 할인 판매…
+
+Source: https://brunch.co.kr/@rickeygo/5 (트위스트 앤 스프라우트 팜 을 운영하는  캐머론 포리 & 브리엘 포리 부부 이야기)
 
 
-# Social Media BEST PRACTICE | Strategy
-
-- 첫째, 공감(共感), 공익(共益), 공유(共有) 등 소비자 감성을 자극할 콘텐츠를 지속적으로 발신함으로써 소비자와의 긍정적 관계 구축에 주력해야 한다.
-
-- 둘째, 사람들의 SNS를 통한 소통 욕구를 자극할 신선하고 센스있는 콘텐츠는 대기업 보다 중소기업 풍토에서 탄생할 가능성이 높다.
-
-- 셋째, SNS 활용시 “입”(정보발신)과 “귀”(정보수신) 둘 다 중요하지만, 소비자의 의견을 낮은 자세로 청취한다는 “소통 중시” 기업의 이미지를 심어주기 위해서는 “입”보다 “귀”가 좀 더 중요하다.
-
-- 넷째, 소비자의 “입”을 빌린 마케팅이 효과적이다. 소비자는 SNS를 통해 제품 출시 전의 전망, 출시 후의 상품평 등을 발신하는 등 과거 기업이 전담했던 마케팅 업무를 자발적으로 대신하고 있다. 기업은 소비자에게 더 큰 마케팅 권한과 능력을 부여하되, 기업 브랜드에 유리한 방향으로 진행되는지 관리해야 한다.
-
-- 다섯째, 제품과 서비스의 특징을 효과적으로 보여줄 매체를 활용해야 하는데, 기계, 화학, 부품 등 비소비재의 경우 제품의 장점 및 사용법 시연 등 설명이 용이한 유튜브 마케팅이 효과적이다. 반면, 화장품, 미용제품, 의류/잡화 등 소비재의 경우 의견 공유 및 전달이 용이한 페이스북 마케팅의 성과가 크다.
-
-- 여섯째, SNS는 매출 증대를 위한 판매 루트가 아니라 소비자와의 커뮤니케이션 도구임을 명심, 소비자와의 친밀도 제고 등 기업 위상 강화를 지향해야 한다.
-
-
-
-# Social Media BEST PRACTICE  | Strategy
-
-- https://brunch.co.kr/@rickeygo/5 의  내용 정리
 
 # Social Media BEST PRACTICE
 
-## 카드뉴스란?
+## TIPS: Mobile Phone에서 Facebook과Instagram 연동 방법
+
+> **Note**
+> 영어 Screenshot 으로 변경
+
+1. Sign in to Instagram
+
+2. Select menu icon
+
+   ![Sign in Instagram](1561429400943.jpg)
+
+3. Select **linked account** > **Facebook**
+
+   ![Settings](1561502998792.jpg)
+
+4. Sign in to Facebook
+
+   ![Sign in to Facebook](1561503006841.jpg)
+
+
+## What is Card News? [file](./online-solution-card-news.pdf)
+
 정보를 간결한 글과 여러 장의 이미지로 압축해 전달하는 콘텐츠 형태이다. 대부분 10장 내외로 구성된다. ‘나열형’과 ‘스토리텔링형’으로 구분할 수 있다.
 
 - 나열형: 각종 정보를 요약해서 보여줌
@@ -93,43 +118,43 @@
   https://news.naver.com/main/hotissue/read.nhn?mid=hot&sid1=110&cid=1010805&iid=5149123&oid=310&aid=0000073158&ptype=021
   https://news.naver.com/main/hotissue/read.nhn?mid=hot&sid1=110&cid=1010805&iid=5147409&oid=024&aid=0000061947&ptype=021
 
-## 페이스북과 카드뉴스
+### 페이스북과 카드뉴스
 1. 카드뉴스는 페이스북 페이지 콘텐츠 유형 중 가장 보편적인 형태로, 유저들에게 거부감 없이 다가갈 수 있다는 장점이 있다.
-  - 매일 페이스북을 사용하는 사람 수: 15억 명 이상
-  - 매달 페이스북을 사용하는 사람 수: 23억 명 이상
-  - Facebook에서 활동 중인 광고주: 700만 명 이상
-  --> 자료 출처: 페이스북
+
+    - 매일 페이스북을 사용하는 사람 수: 15억 명 이상
+    - 매달 페이스북을 사용하는 사람 수: 23억 명 이상
+    - Facebook에서 활동 중인 광고주: 700만 명 이상
+      --> 자료 출처: 페이스북
 
 2. 카드뉴스는 모바일 이용자가 좋아하는 콘텐츠다. 소상공인 입장에서 소비자에게 다가가는 모바일 환경의 최적화된 언어다. (<카드뉴스 마케팅> p.35)
 
 3. 카드뉴스 장점
-  - 영상보다 제작하기 쉽고 텍스트보다 가독성이 좋음
-  - 빠른 정보전달과 높은 접근성
+    - 영상보다 제작하기 쉽고 텍스트보다 가독성이 좋음
+    - 빠른 정보전달과 높은 접근성
 
 4. 중소기업 페이스북 마케팅 성공사례
-  - https://www.facebook.com/business/success/categories/small-business
+    - https://www.facebook.com/business/success/categories/small-business
 
 
-# Social Media BEST PRACTICE   | Agriculture
+## 플리 마켓 [file](./online-soulution-flea-market.pdf)
 
-## USA
-
-- https://brunch.co.kr/@rickeygo/5
-
-## Korea
-
-- https://m.blog.naver.com/nong-up/221165698217
-
-예를 들면 CSR와인이라는 와인수입업체는 페이스북 내에 팬페이지를 개설하고, 단순 제품 홍보가 아닌, 각 지역별 와인 설명과 와인 마시는 법에 대한 다양한 TIP 제공, 와인 구매 시 포인트 적립 및 적극적인 활용 캠페인 등 정보와 지식 전달 위주의 커뮤니케이션 채널로 포지셔닝하여 성공을 거두었다. 개설된 지 3개월 만에 이 팬페이지와 친구를 맺은 가입자가 700여 명을 넘어섰고, 이들의 입소문을 통해 신규 친구맺기 가입자가 지속적으로 늘어나고 있다. - 도토리 속 참나무는 육류 유통업체로 매일 트위터를 이용해 선착순 10명에게 고기 샘플을 증정하는 이벤트를 통해 육질에 대한 긍정적인 입소문이 트위터로 퍼지면서 매출이 급신장했다.    
+> **Note**
+> PPT를 정리해서 최종 교안에 추가
 
 
+## Agriculture 분야
 
-# Social Media BEST PRACTICE  | Industry
-
-- 내용 정리
-
+> **Note**
+> 내용 정리
 
 
-# Social Media BEST PRACTICE   | Tailoring
+## Industry 분야
 
-- 내용 정리
+> **Note**
+> 네팔 미용실 사례 정리
+
+
+## Tailoring 분야
+
+> **Note**
+> 내용 정리
