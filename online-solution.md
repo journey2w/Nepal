@@ -168,5 +168,13 @@ Source : https://brunch.co.kr/@rickeygo/3
 
 ## Tailoring 분야
 
-> **Note**
-> 내용 정리
+![eShakti](eshakti.png)
+
+- eShakti is a online custom clothing store
+- The store exclusively focuses on tailored women’s clothing
+- Customers can get their clothes completely customized to suit their style	
+
+https://www.instagram.com/eshakti/?hl=en
+
+Source : https://www.eshakti.com/, https://stores.org/2017/08/21/the-personalization-factor/
+
